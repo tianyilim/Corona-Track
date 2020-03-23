@@ -77,6 +77,7 @@ for countryData in countryData:
     else:
         print("In %s, there are currently %d cases and %d deaths." %(country, totalCasesInt, totalDeathsInt))
 
-    time.sleep(0.1)
+    # for theatrical effect
+    # time.sleep(0.1)
 
     
